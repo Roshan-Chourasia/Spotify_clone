@@ -1,9 +1,9 @@
-**Spotify Clone**
+<h1>Spotify Clone</h1>
 
 A web-based Spotify clone built with HTML, CSS, and JavaScript. This project mimics the core features of Spotify’s web player, letting users browse playlists, view albums, and play music right in the browser.
 
 
-Features:
+**Features:**
 
 🎵 Modern Spotify-like UI: Responsive, visually appealing, inspired by Spotify.
 
@@ -18,31 +18,10 @@ Features:
 📱 Responsive Design: Optimized for both desktop and mobile devices.
 
 
-Project Structure:
-
-Spotify_clone/
-│
-├── css/                # Stylesheets (main and utility)
-├── img/                # UI icons and images
-├── js/
-│   └── script.js       # Main JavaScript logic
-├── songs/              # All music albums/playlists
-│   ├── Album1/
-│   │   ├── cover.jpg
-│   │   ├── info.json
-│   │   └── ...your .mp3 files...
-│   ├── Album2/
-│   │   ├── cover.jpg
-│   │   ├── info.json
-│   │   └── ...your .mp3 files...
-│   └── ...
-├── index.html          # Main HTML file
-└── favicon.ico
-
-How to Use:
+**How to Use:**
 
 1. Clone or Download the Repository:
-git clone https://github.com/yourusername/spotify-clone.git
+git clone - https://github.com/Roshan-Chourasia/Spotify_clone.git
 
 2. Add Your Songs:
    
@@ -58,7 +37,7 @@ git clone https://github.com/yourusername/spotify-clone.git
      }
   4.Place your .mp3 files inside this folder.
 
-Note: The app will automatically detect and display any new albums/playlists you add. Just refresh the page to see your new music!
+**Note:** The app will automatically detect and display any new albums/playlists you add. Just refresh the page to see your new music!
 
 3. Run the Project
 
@@ -71,11 +50,11 @@ Note: The app will automatically detect and display any new albums/playlists you
 - Click a song to play it.
 - Use the player controls at the bottom to play/pause, skip, seek, and adjust volume.
 
-Screenshot:
+**Screenshot:**
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d9da532b-e36f-493f-a631-c3044b9efb85" />
 
-Customization:
+**Customization:**
 
 Styling:
 Edit css/style.css and css/utility.css to change the look and feel.
@@ -83,10 +62,10 @@ Edit css/style.css and css/utility.css to change the look and feel.
 Icons/Images:
 Replace or add icons in the img/ folder as needed.
 
-Credits:
+**Credits:**
 - UI inspired by Spotify
 - Icons from SVGRepo and similar sources
 - Developed by Roshan Chourasia
 
-License:
+**License:**
 This project is for educational purposes only and is not affiliated with or endorsed by Spotify.
